@@ -102,14 +102,14 @@ Esteja ciente que aqui no meu perfil do GitHub eu prefiro ser mais simpático, l
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bbsrch&show_icons=true&theme=merko&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=bbsrch&show_icons=true&layout=compact&theme=dark&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbsrch&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbsrch&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

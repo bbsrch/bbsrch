@@ -2,9 +2,9 @@
 
 **`Estudante de ADS e artista de pixel art nas horas vagas 👾`**
 
-👋😸 Oiii, tudo bem? Bem vindx ao meu perfil/portifólio! 
+👋😸 Oiii, tudo bem? Seja bem vindx ao meu perfil! 
 
-Me chamo André, tenho 19 anos e sou um programador iniciante, mas apaixonado em desenvolvimento web e de jogos. No momento, curso Análise de Desenvolvimento de Sistemas na UAM-SP, mas muito (quase tudo) do meu aprendizado eu busco por fora dela. Além disso, sou apaixonado por pixel art e uso meus desenhos no desenvolvimento dos meus jogos!
+Me chamo André, tenho 19 anos e sou um programador iniciante, apaixonado em desenvolvimento web e de jogos com muita criatividade de sobra. No momento, sou estudante de Análise de Desenvolvimento de Sistemas na UAM-SP, mas muito (((quase tudo))) do meu aprendizado eu busco por fora da faculdade. Além disso, sou apaixonado por pixel art e uso no desenvolvimento dos meus jogos!
 
 Esse é meu perfil no >>[Linkedin](https://www.linkedin.com/in/andre-barbosa-da-rocha/)<< caso queira saber mais informações profissionais!
 

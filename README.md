@@ -1,6 +1,6 @@
 #  André Barbosa da Rocha
 
-**`Estudante de ADS e artista de pixel art nas horas vagas`**
+**`Estudante de ADS e artista de pixel art nas horas vagas 👾`**
 
 👋😸 Oiii, tudo bem? Bem vindx ao meu perfil/portifólio! 
 

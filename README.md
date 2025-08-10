@@ -8,8 +8,6 @@ Me chamo André, tenho 19 anos e sou um programador iniciante, apaixonado em des
 
 Esse é meu perfil no >>[Linkedin](https://www.linkedin.com/in/andre-barbosa-da-rocha/)<< caso queira saber mais informações profissionais!
 
-Esteja ciente que aqui no meu perfil do GitHub eu prefiro ser mais simpático, livre e informal na minha comunicação, como já deve ter percebido 😆 (amo emojis, tem em tudo aqui!).
-
 
 
 <p align="left">

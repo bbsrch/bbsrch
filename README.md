@@ -62,7 +62,7 @@ Esse é meu perfil no >>[Linkedin](https://www.linkedin.com/in/andre-barbosa-da-
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://imgs.search.brave.com/7t_jR7sY58dEIBGI4C4JZnTqaRgyhrzx7P4seOnBtEo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzMzLzIvamF2YXNj/cmlwdC1sb2dvLXBu/Z19zZWVrbG9nby0z/MzA1NDEucG5n" 
 />
 <img 
     align="left" 

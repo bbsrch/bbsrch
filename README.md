@@ -99,7 +99,7 @@ Esse é meu perfil no >>[Linkedin](https://www.linkedin.com/in/andre-barbosa-da-
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbsrch&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbsrch&theme=dark&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

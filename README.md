@@ -6,7 +6,7 @@
 
 Me chamo André, sou um programador iniciante, apaixonado em desenvolvimento com muita criatividade de sobra. No momento, estou estudando Análise de Desenvolvimento de Sistemas na Anhembi Morumbi, mas muito (((quase tudo))) do meu aprendizado eu busco por fora da faculdade.
 
-Aqui no GitHub sempre coloco todos os meus arquivos de estudos, então você consegue acompanhar toda minha evolução no desenvolvimento de sistemas, se quiser ^^
+Aqui no GitHub sempre coloco os meus arquivos de estudos, então você consegue acompanhar toda minha evolução com o desenvolvimento de sistemas, se quiser ^^
 
 Esse é meu perfil no >>[Linkedin](https://www.linkedin.com/in/andre-barbosa-da-rocha/)<< caso queira saber mais informações profissionais.
 

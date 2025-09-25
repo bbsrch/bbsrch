@@ -4,7 +4,7 @@
 
 👋😸 Oiii, tudo bem? Seja bem vindx ao meu perfil! 
 
-Me chamo André, nascido em 2006, sou um programador iniciante, apaixonado em desenvolvimento com muita criatividade de sobra. No momento, sou estudante de Análise de Desenvolvimento de Sistemas na UAM-SP, mas muito (((quase tudo))) do meu aprendizado eu busco por fora da faculdade. Além disso, sou entusiasta em pixel art e pretendo usar no desenvolvimento dos meus futuros sites e jogos!
+Me chamo André, sou um programador iniciante, apaixonado em desenvolvimento com muita criatividade de sobra. No momento, estou estudando Análise de Desenvolvimento de Sistemas na Anhembi Morumbi, mas muito (((quase tudo))) do meu aprendizado eu busco por fora da faculdade.
 
 Esse é meu perfil no >>[Linkedin](https://www.linkedin.com/in/andre-barbosa-da-rocha/)<< caso queira saber mais informações profissionais.
 

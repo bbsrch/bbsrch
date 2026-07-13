@@ -1,14 +1,13 @@
 #  André Barbosa da Rocha
 
-**`Estudante de Ciência da Computação com aspiração em cibersegurança! 👾`**
+**`Estudante de Ciência da Computação com paixão em cibersegurança 🛡️👾`**
 
-👋😸 Oiii, tudo bem? Seja bem vindx ao meu perfil! 
+👋😸 Oi!
+Me chamo André. Gosto de gatos, caldo de cana e banhos quentes :3
 
-Me chamo André, sou um programador iniciante, apaixonado em desenvolvimento com muita criatividade de sobra. No momento, estou estudando Análise de Desenvolvimento de Sistemas na Anhembi Morumbi, mas muito (((quase tudo))) do meu aprendizado eu busco por fora da faculdade.
+Não estou ativo aqui no GitHub, mas você pode me acompanhar no  >>[TryHackMe](https://tryhackme.com/p/bbsrch)<<
 
-Aqui no GitHub sempre coloco os meus arquivos de estudos, então você consegue acompanhar toda minha evolução com o desenvolvimento de sistemas, se quiser ^^
-
-Esse é meu perfil no >>[Linkedin](https://www.linkedin.com/in/andre-barbosa-da-rocha/)<< caso queira saber mais informações profissionais.
+Não esqueça de passar no meu [Linkedin](https://www.linkedin.com/in/andre-barbosa-da-rocha/) caso queira saber mais informações profissionais!
 
 
 
@@ -43,7 +42,6 @@ Esse é meu perfil no >>[Linkedin](https://www.linkedin.com/in/andre-barbosa-da-
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-/>
 <img 
     align="left" 
     alt="MySQL" 

@@ -1,14 +1,12 @@
 #  André Barbosa da Rocha
 
-**`Estudante de Ciência da Computação com paixão em cibersegurança 🛡️👾`**
+**`Graduando em Ciência da Computação com foco em cibersegurança 🛡️👾`**
 
 👋 Hello, world person!
 
 Me chamo André. Gosto de gatos, caldo de cana e banhos quentes :3
 
-Não estou ativo aqui no GitHub, mas você pode me acompanhar no  >>[TryHackMe](https://tryhackme.com/p/bbsrch)<<
-
-Não esqueça de passar no meu [Linkedin](https://www.linkedin.com/in/andre-barbosa-da-rocha/) caso queira saber mais informações profissionais!
+Não estou ativo aqui no GitHub, mas você pode me acompanhar no [Linkedin](https://www.linkedin.com/in/andre-barbosa-da-rocha/) caso queira saber mais informações profissionais!
 
 
 
